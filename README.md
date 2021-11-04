@@ -45,7 +45,7 @@ Dungeon crawl is a roguelike style game written in java with javaFX for the inte
 - Floor 2</br>
 ![Image](https://i.imgur.com/wNWsD0j.png)</br>
 
-- Assets
+- Assets</br>
 ![Image](https://i.imgur.com/4t7Ni66.png)</br>
 
 ## Getting started!
