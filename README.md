@@ -20,6 +20,20 @@
 </li>
 </ol>
 
+## Intro
+Dungeon crawl is a roguelike style game written in java with javaFX for the interface
+
+## Technologies
+- Java
+- Maven
+- JavaFX
+
+## About the project
+- This is one of the two game like java projects that I did when I started learning java, the first one being a Battleship style game
+- The logic is all written in Java
+- In the Main file we use JavaFX to create the interface
+- The assets used come from a free source <a href="https://kenney.nl/assets/bit-pack">here</a>
+
 ## Overview
 - Interface</br>
 ![Image](https://i.imgur.com/0rCVpln.png)</br>
@@ -29,6 +43,9 @@
 
 - Floor 2</br>
 ![Image](https://i.imgur.com/wNWsD0j.png)</br>
+
+- Assets
+![Image](https://i.imgur.com/4t7Ni66.png)</br>
 
 ## Getting started!
 1. Install Open JDK
