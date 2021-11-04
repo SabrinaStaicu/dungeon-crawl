@@ -29,9 +29,10 @@ Dungeon crawl is a roguelike style game written in java with javaFX for the inte
 - JavaFX
 
 ## About the project
-- This is one of the two game like java projects that I did when I started learning java, the first one being a Battleship style game
-- The logic is all written in Java
+- This is one of the few game like java projects that I did when I started learning java
+- The logic is all written in Java using classes, interfaces and enums.
 - In the Main file we use JavaFX to create the interface
+- The map is kept as a txt file that is read when initializing the game
 - The assets used come from a free source <a href="https://kenney.nl/assets/bit-pack">here</a>
 
 ## Overview
