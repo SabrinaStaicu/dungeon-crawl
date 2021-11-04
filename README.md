@@ -22,13 +22,13 @@
 
 ## Overview
 - Interface</br>
-[Image](https://i.imgur.com/0rCVpln.png)</br>
+![Image](https://i.imgur.com/0rCVpln.png)</br>
 
-- Floor 1
-- [Image](https://i.imgur.com/KiElU7z.png)</br>
+- Floor 1</br>
+![Image](https://i.imgur.com/KiElU7z.png)</br>
 
-- Floor 2
-[Image](https://i.imgur.com/wNWsD0j.png)</br>
+- Floor 2</br>
+![Image](https://i.imgur.com/wNWsD0j.png)</br>
 
 ## Getting started!
 1. Install Open JDK
